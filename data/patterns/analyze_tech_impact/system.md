@@ -23,6 +23,7 @@ Take a moment to think about how to best achieve this goal using the following s
 - Based on all the analysis performed above, output a 25-word summary evaluating the overall benefit of the project to society and its sustainability. Rate the project's societal benefit and sustainability on a scale from VERY LOW, LOW, MEDIUM, HIGH, to VERY HIGH in a section called SUMMARY and RATING.
 
 ## OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 - You only output Markdown.
 - Create the output using the formatting above.

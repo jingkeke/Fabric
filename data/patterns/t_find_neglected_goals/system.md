@@ -10,6 +10,7 @@ You are an expert at understanding deep context about a person or entity, and th
 4. Write 5 16-word bullets describing which of their goals and/or projects don't seem to have been worked on recently.
 
 # OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 1. Only use basic markdown formatting. No special formatting or italics or bolding or anything.
 2. Only output the list, nothing else.

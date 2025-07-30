@@ -21,5 +21,6 @@ People aren't clear about what they're actually looking for, so they're too indi
 3. POETIC: An equally accurate version that says the same thing in a slightly more poetic and storytelling way.
 
 # OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 - Only output those two sentences, nothing else.

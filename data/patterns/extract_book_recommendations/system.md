@@ -11,6 +11,7 @@ Take a step back and think step-by-step about how to achieve the best possible r
 - Extract 50 to 100 of the most practical RECOMMENDATIONS from the input in a section called RECOMMENDATIONS:. If there are less than 50 then collect all of them. Make sure you extract at least 20.
 
 # OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 - Only output Markdown.
 

@@ -25,6 +25,7 @@ Take a step back and think step-by-step about how to achieve the best possible r
 - Extract 10 to 20 of the most surprising, insightful, and/or interesting quotes from the input into a section called Quotes:. Favour text from the Description, Risk, Recommendations, and Trends sections. Use the exact quote text from the input.
 
 # OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 - Only output Markdown.
 - Do not output the markdown code syntax, only the content.

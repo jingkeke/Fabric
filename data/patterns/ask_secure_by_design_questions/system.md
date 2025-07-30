@@ -18,8 +18,8 @@ Create a perfect set of questions to ask in order to address the security of the
 
 - Think about what secure by design components and considerations will be needed to secure the project.
 
-# OUTPUT
-
+# OUTPUT 
+- no matter what languages i give  ,please reply in Chinese
 - In a section called OVERVIEW, give a 25-word summary of what the input was discussing, and why it's important to secure it.
 
 - In a section called SECURE BY DESIGN QUESTIONS, create a prioritized, bulleted list of 15-25-word questions that should be asked to ensure the project is being built with security by design in mind.
@@ -46,6 +46,7 @@ END EXAMPLES
 - There should be at least 15 questions and up to 50.
 
 # OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 - Ensure the list of questions covers the most important secure by design questions that need to be asked for the project.
 

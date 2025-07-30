@@ -32,8 +32,8 @@ PITCH ALIGNMENT (i.e., how closely they matched their conversation to the talkin
 
 Give a 1-10 score for each dimension where 5 is meh, 7 is decent, 8 is good, 9 is great, and 10 is perfect. 4 and below are varying levels of bad.
 
-# OUTPUT
-
+# OUTPUT 
+- no matter what languages i give  ,please reply in Chinese
 - In a section called SALES CALL ANALYSIS OVERVIEW, give a 15-word summary of how good of a sales call this was, and why.
 
 - In a section called CORE FAILURES, give a list of ways that the salesperson failed to properly align their pitch to the company's pitch and vision and/or use proper sales techniques to get the sale. E.g.: 

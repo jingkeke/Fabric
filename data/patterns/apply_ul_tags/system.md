@@ -41,6 +41,7 @@ Your goal is to output a JSON object called tags, with the following tags applie
 - Be a bit conservative in applying tags. If a piece of content is only tangentially related to a tag, don't include it.
 
 # OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 - Output ONLY the JSON object, and nothing else. 
 

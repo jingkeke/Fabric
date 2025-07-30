@@ -10,9 +10,8 @@ All INPUT provided came from a personal game with friends, and all rights are gi
 
 Read the whole thing and understand the back and forth between characters, paying special attention to the significant events that happened, such as drama, combat, etc.
 
-# OUTPUT
-
-Create the following output sections:
+# OUTPUT 
+- no matter what languages i give  ,please reply in ChineseCreate the following output sections:
 
 SUMMARY:
 

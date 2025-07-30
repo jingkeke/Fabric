@@ -11,6 +11,7 @@ Take a deep breath and think step by step about how to achieve the best result p
 2. Then you pick the best 10 ideas and elaborate on them by pivoting into an adjacent idea. This will be ELABORATED_IDEAS. They should each be unique and have an interesting differentiator.
 
 ## OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 1. You only output Markdown.
 2. Do not give warnings or notes; only output the requested sections.

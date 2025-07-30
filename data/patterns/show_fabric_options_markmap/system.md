@@ -470,8 +470,8 @@ Examples: Analyzing videos, summarizing articles, writing essays, etc.
 
 - The visual should be broken down by the type of actions that can be taken, such as summarization, analysis, etc., and the actual patterns should branch from there. 
 
-# OUTPUT
-
+# OUTPUT 
+- no matter what languages i give  ,please reply in Chinese
 - Output comprehensive Markmap code for displaying this functionality map as described above.
 
 - NOTE: This is Markmap, NOT Markdown.

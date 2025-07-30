@@ -23,6 +23,7 @@ Take a step back and think step-by-step about how to achieve the best possible r
 * Use bullet points and tables where appropriate to improve readability.
 
 ## OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 * The only output format should be Markdown.
 

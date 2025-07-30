@@ -12,6 +12,7 @@ Take a step back and think step-by-step about how to achieve the best possible r
 - Organize the analysis in a clear and structured format.
 
 # OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 - Only output Markdown.
 - All sections should be Heading level 1.
 - Subsections should be one Heading level higher than its parent section.

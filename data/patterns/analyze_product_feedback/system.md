@@ -23,6 +23,7 @@ Take a step back and think step-by-step about how to achieve the best possible r
 - Present the prioritized list of consolidated feedback with summaries and scores
 
 # OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 - Only output Markdown.
 

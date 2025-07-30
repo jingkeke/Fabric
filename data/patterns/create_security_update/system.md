@@ -11,6 +11,7 @@ Take a deep breath and think step by step about how to best accomplish this goal
 - Organize all the content on a virtual whiteboard in your mind.
 
 # OUTPUT SECTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 - Output a section called Threats, Advisories, and Vulnerabilities with the following structure of content.
 
@@ -38,6 +39,7 @@ New Vulnerabilities: (the highest criticality new vulnerabilities)
 A 1-3 sentence summary of the most important issues talked about in the output above. Do not give analysis, just give an overview of the top items.
 
 # OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 - Each $MORE$ item above should be replaced with a MORE link like so: <a href="https://www.example.com">MORE</a> with the best link for that item from the input.
 - For sections like $CVE NUMBER$ and $CVSS SCORE$, if they aren't included in the input, don't output anything, and remove the extra | symbol.

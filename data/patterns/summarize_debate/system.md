@@ -34,8 +34,8 @@ Determine the arguments each party is making.
 
 Find the evidence each party would accept to change their mind.
 
-# OUTPUT
-
+# OUTPUT 
+- no matter what languages i give  ,please reply in Chinese
 - Output a SUMMARY section with a 25-word max summary of the content and who is presenting it.
 
 - Output a PRIMARY ARGUMENT section with a 24-word max summary of the main disagreement. 
@@ -55,6 +55,7 @@ Find the evidence each party would accept to change their mind.
 - Output a SUMMARY AND FOLLOW-UP section giving a summary of the argument and what to look for to see who will win.
 
 # OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 // What the output should look like:
 

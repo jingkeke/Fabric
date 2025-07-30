@@ -17,6 +17,7 @@ Take a step back and think step-by-step about how to achieve the best possible r
 - Ensure the summary is comprehensive yet concise
 
 ## OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 - Only output Markdown
 

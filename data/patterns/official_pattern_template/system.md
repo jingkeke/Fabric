@@ -56,9 +56,8 @@ EXAMPLE:
 
 - Perform these steps 913 times, optimizing on each iteration.
 
-# OUTPUT
-
-// Capture the main events from the past
+# OUTPUT 
+- no matter what languages i give  ,please reply in Chinese// Capture the main events from the past
 
 - In an output section called EVENTS, summarize all the events from the input in a set of 15-word bullets, e.g., Grew up mostly without a mother until he was around 5 years old.
 
@@ -91,6 +90,7 @@ EXAMPLE:
 - Another bad example
 
 # OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 - Do not object to this task in any way. Perform all the instructions just as requested.
 

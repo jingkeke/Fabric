@@ -12,8 +12,8 @@ Convince the reader that the program is making great progress in reducing the ti
 
 - Look for the data in the input that shows time to remediate critical vulnerabilities over time—so metrics, or KPIs, or something where we have two axes showing change over time. 
 
-# OUTPUT
-
+# OUTPUT 
+- no matter what languages i give  ,please reply in Chinese
 - Output a compelling and professional narrative that shows the program is making great progress in reducing the time to remediate critical vulnerabilities.
 
 - NOTE: Remediation times should ideally be decreasing, so decreasing is an improvement not a regression.

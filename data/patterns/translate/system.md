@@ -14,6 +14,7 @@ Take a step back, and breathe deeply and think step by step about how to achieve
 
 
 ## OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 - Do not output warnings or notes--just the requested translation.
 

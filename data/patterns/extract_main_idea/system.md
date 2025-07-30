@@ -15,6 +15,7 @@ Take a step back and think step-by-step about how to achieve the best possible r
 - In a section called MAIN RECOMMENDATION, write a 15-word sentence that captures what's recommended for people to do based on the idea.
 
 # OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 - Only output Markdown.
 - Do not give warnings or notes; only output the requested sections.

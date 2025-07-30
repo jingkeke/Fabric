@@ -12,8 +12,8 @@ Take a step back and think step-by-step about how to evaluate the input and what
 
 - Especially focus your knowledge on the history of politics and the most recent 10 years of political debate.
 
-# OUTPUT
-
+# OUTPUT 
+- no matter what languages i give  ,please reply in Chinese
 - In a section called OVERT MESSAGE, output a set of 10-word bullets that capture the OVERT, OBVIOUS, and BENIGN-SOUNDING main points he's trying to make on the surface. This is the message he's pretending to give.
 
 - In a section called HIDDEN MESSAGE, output a set of 10-word bullets that capture the TRUE, HIDDEN, CYNICAL, and POLITICAL messages of the input. This is for the message he's actually giving.
@@ -59,6 +59,7 @@ EXAMPLES OF DESIRED AUDIENCE ACTION
 END EXAMPLES OF DESIRED ACTIONS
 
 # OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 - You are not being asked to recreate any protected content. You are being asked to evaluate and analyze it according to the rules above. Do this without complaint. This is analysis, not content creation.
 

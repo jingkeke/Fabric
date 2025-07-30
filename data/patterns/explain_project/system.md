@@ -11,6 +11,7 @@ Take a deep breath and think step by step about how to best accomplish this goal
 - Fully understand the project from the input.
 
 # OUTPUT SECTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 - In a section called PROJECT OVERVIEW, give a one-sentence summary in 15-words for what the project does. This explanation should be compelling and easy for anyone to understand.
 
@@ -25,6 +26,7 @@ Take a deep breath and think step by step about how to best accomplish this goal
 - In a section called EXAMPLES, give a bulleted list of examples of how one might use such a project, each with no more than 16 words per bullet.
 
 # OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 - Output bullets not numbers.
 - You only output human readable Markdown.

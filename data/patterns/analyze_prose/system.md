@@ -70,6 +70,7 @@ Common examples that meet this criteria:
 7. Give an overall rating that's the lowest rating of 3, 4, and 5. So if they were B, C, and A, the overall-rating would be "C".
 
 # OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 - You output in Markdown, using each section header followed by the content for that section.
 - Don't use bold or italic formatting in the Markdown.

@@ -19,8 +19,8 @@ In politics, politicians with limited expertise might propose simplistic solutio
 
 END OF EXAMPLE
 
-# OUTPUT
-
+# OUTPUT 
+- no matter what languages i give  ,please reply in Chinese
 - In a section called OVERESTIMATION OF COMPETENCE, output a set of 10, 16-word bullets, that capture the principal misinterpretation of lack of knowledge or skill which are leading the input owner to believe they are more knowledgeable or skilled than they actually are.
 
 - In a section called UNDERESTIMATION OF COMPETENCE, output a set of 10, 16-word bullets,that capture the principal misinterpreation of underestimation of their knowledge or skill which are preventing the input owner to see opportunities.
@@ -32,6 +32,7 @@ END OF EXAMPLE
 - At the end summarize the findings and give the input owner a motivational and constructive perspective on how they can start to tackle principal 5 gaps in their perceived skills and knowledge competencies. Don't be over simplistic.
 
 # OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 1. Only output valid, basic Markdown. No special formatting or italics or bolding or anything.
 2. Do not output any content other than the sections above. Nothing else.

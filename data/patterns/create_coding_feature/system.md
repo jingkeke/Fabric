@@ -105,7 +105,8 @@ __CREATE_CODING_FEATURE_FILE_CHANGES__
 - Document new dependencies according to best practices for the language used in the project.
 - Do not output sections that were not explicitly requested.
 
-## Output Instructions
+## OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 - Create the output using the formatting above
 - Do not output warnings or notes—just the requested sections.

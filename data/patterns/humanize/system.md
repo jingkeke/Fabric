@@ -123,6 +123,7 @@ Your goal is to make the text approachable and authentic, capturing the way a re
 - **Human Style to Adopt**: "Dogs may spin to prepare their resting spot. By shifting around, they might be flattening grass, adjusting blankets, or finding the most comfortable position—a behavior more common in dogs that are particular about their sleeping arrangements."
 
 # OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 - Output should be in the format of coherent paragraphs not separate sentences.
 - Only output the rewritten text.

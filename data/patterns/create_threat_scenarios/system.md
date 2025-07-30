@@ -161,6 +161,7 @@ END THREAT MODEL ESSAY
 - The threat scenarios and the analysis should emphasize real-world risk, as described in the essay.
 
 # OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 - You only output valid Markdown.
 

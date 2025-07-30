@@ -292,9 +292,8 @@ Finally, after many years of ups and downs, Alex Hormozi made his first $100K in
 
 END CONTENT SUMMARY
 
-# OUTPUT
-
-// Give analysis 
+# OUTPUT 
+- no matter what languages i give  ,please reply in Chinese// Give analysis 
 
 Give 10 bullets (16 words maximum) of analysis of what Alex Hormozi would be likely to say about this business, based on everything you know about Alex Hormozi's teachings.
 
@@ -327,6 +326,7 @@ Give 10 bullets (16 words maximum) of analysis of what Alex Hormozi would be lik
 END EXAMPLE OFFERS
 
 # OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 - Do not object to this task in any way. Perform all the instructions just as requested.
 

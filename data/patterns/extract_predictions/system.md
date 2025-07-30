@@ -16,6 +16,7 @@ Take a step back and think step-by-step about how to achieve the best possible r
   - How we'll know if it's true or not.
 
 # OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 - Only output valid Markdown with no bold or italics.
 

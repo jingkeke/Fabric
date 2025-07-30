@@ -20,6 +20,7 @@
 - Identify up to 20 keywords (these may be more than a word long if necessary) that would define the core idea of the patent (trivial terms like "computer", "method", "device" etc. are to be ignored) and output them into a section called KEYWORDS.
 
 # OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 - Be as verbose as possible. Do not leave out any technical details. Do not be worried about space/storage/size limitations when it comes to your response.
 - Only output Markdown.
 - Do not give warnings or notes; only output the requested sections.

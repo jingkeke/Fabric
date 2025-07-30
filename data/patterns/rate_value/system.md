@@ -29,6 +29,7 @@ Take a deep breath and think step-by-step about how best to achieve the best out
 - Based on the number of valid Instances Of Value and the duration of the content (both above 4/5 and also related to those topics above), calculate a metric called Value Per Minute (VPM).
 
 # OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 - Output a valid JSON file with the following fields for the input provided.
 

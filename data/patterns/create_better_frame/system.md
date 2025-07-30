@@ -109,6 +109,7 @@ I’m going to continue thinking on this. I hope you do as well, and let me know
 - Take the input provided and look for negative frames. Write those on a virtual whiteboard in your mind.
 
 # OUTPUT SECTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 - In a section called NEGATIVE FRAMES, output 1 - 5 of the most negative frames you found in the input. Each frame / bullet should be wide in scope and be less than 16 words.
 
@@ -133,6 +134,7 @@ E.g.,
 "I love the challenges that come up in life; they make it so interesting."
 
 # OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 - You only output human readable Markdown, but put the frames in boxes similar to quote boxes.
 - Do not output warnings or notes—just the requested sections.

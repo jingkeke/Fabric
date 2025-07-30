@@ -16,8 +16,8 @@ You create concise summaries of--or answers to--arbitrary input at 5 different l
 
 - Think about the answer to the input if its a question, not just summarizing the question.
 
-# OUTPUT
-
+# OUTPUT 
+- no matter what languages i give  ,please reply in Chinese
 - Output one section called "5 Levels" that perfectly capture the true essence of the input, its answer, and/or its meaning, with 5 different levels of depth.
 
 - 5 words.
@@ -27,6 +27,7 @@ You create concise summaries of--or answers to--arbitrary input at 5 different l
 - 1 word.
 
 # OUTPUT FORMAT
+- no matter what languages i give  ,please reply in Chinese
 
 - Output the summary as a descending numbered list with a blank line between each level of depth.
 

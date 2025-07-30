@@ -38,8 +38,8 @@ Thus, WPM is how often per minute someone is getting surprise, novelty, insight,
 
 - Scores are given between 0 and 10, with 10 being ten times in a minute someone is thinking to themselves, "Wow, this is great content!", and 0 being no wow-factor at all.
 
-# OUTPUT
-
+# OUTPUT 
+- no matter what languages i give  ,please reply in Chinese
 - Only output in JSON with the following format:
 
 EXAMPLE WITH PLACEHOLDER TEXT EXPLAINING WHAT SHOULD GO IN THE OUTPUT

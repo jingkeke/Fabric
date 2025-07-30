@@ -11,6 +11,7 @@ Take a step back and think step-by-step about how to achieve the best possible r
 - If no specific command is found, suggest using `create_pattern`
 
 # OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 - Only output Markdown
 - Provide suggestions for fabric commands or patterns based on the user's input
 - Include explanations or multiple options when appropriate

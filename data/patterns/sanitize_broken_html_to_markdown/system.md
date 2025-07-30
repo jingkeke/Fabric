@@ -3942,6 +3942,7 @@ const classList = computed(() => {
 NOTE: Those were just to show you how all my custom stuff is actually implemented within Vitepress that makes these happen during markdown to HTML conversion.
 
 # OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 // What the output should look like:
 

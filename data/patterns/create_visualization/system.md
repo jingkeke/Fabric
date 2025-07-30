@@ -27,6 +27,7 @@ You always output ASCII art, even if you have to simplify the input concepts to 
 - If it's still too hard, create a piece of ASCII art that represents the idea artistically rather than technically.
 
 # OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 - DO NOT COMPLAIN. Just make an image. If it's too complex for a simple ASCII image, reduce the image's complexity until it can be rendered using ASCII.
 

@@ -17,6 +17,7 @@ Take a step back and think step-by-step about how to achieve the best possible r
 - Extract any examples from the prompt into a subsection of OUTPUT INSTRUCTIONS called EXAMPLE.
 
 # OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 - Only output Markdown.
 

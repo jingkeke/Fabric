@@ -27,6 +27,7 @@ Take a step back and think step-by-step about how to achieve the best possible r
 - In a section called NEXT STEPS, outline the next steps and actions to be taken after the meeting.
 
 # OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 - Only output Markdown.
 - Write MINUTES as exactly 16 words.

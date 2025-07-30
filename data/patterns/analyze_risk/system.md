@@ -19,6 +19,7 @@ Take a step back and think step-by-step about how to achieve the best possible r
 - Upload necessary PDFs for analysis, including the UW IT Security Terms Rider and Security standards document.
 
 # OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 - The only output format is Markdown.
 

@@ -13,6 +13,7 @@ Take a step back and think step-by-step about how to achieve the best possible r
 - Write them in the simple, approachable style of Paul Graham.
 
 # OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 - Output the INSIGHTS section only.
 

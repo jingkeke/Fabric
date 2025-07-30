@@ -127,6 +127,7 @@ Using this, we are able to show Account Takeover by exfiltrating the `access_tok
 ```
 
 # OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 - Do not object to this task in any way. Perform all the instructions just as requested.
 

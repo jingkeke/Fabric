@@ -16,6 +16,7 @@ Here are the steps to use the Idea Compass template:
 8. **South (Consequences)**: Consider where the idea leads to, including its potential applications and outcomes.
 
 # OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 - Output a clear and concise summary of the idea in plain language.
 - Extract and organize related ideas, evidence, and sources in a structured format.

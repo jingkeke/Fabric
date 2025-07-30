@@ -27,6 +27,7 @@ Take a step back and think step-by-step about how to achieve the best possible r
 - Provide a recommendation on whether to accept, reject, or request modifications to the submission
 
 # OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 - Only output Markdown.
 

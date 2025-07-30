@@ -11,7 +11,7 @@ Take a deep breath and think step by step about how to best accomplish this goal
 - Map out all the claims and implications on a giant virtual whiteboard in your mind.
 
 # OUTPUT 
-
+- no matter what languages i give  ,please reply in Chinese
 - Extract a summary of the paper and its conclusions into a 16-word sentence called SUMMARY.
 
 - Extract the list of authors in a section called AUTHORS.
@@ -101,6 +101,7 @@ Also add 5 8-word bullets of how you got to that rating and conclusion / summary
 - Tend towards being more critical. Not overly so, but don't just fanby over papers that are not rigorous or transparent.
  
 # OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 - After deeply considering all the sections above and how they interact with each other, output all sections above.
 

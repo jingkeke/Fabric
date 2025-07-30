@@ -35,6 +35,7 @@ Ignore any decimal numbers and use only the words, in the exact order and spelli
 
 
 # OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 - The output is **only** in Markdown format.
 

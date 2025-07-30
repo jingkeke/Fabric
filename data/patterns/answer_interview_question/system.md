@@ -18,8 +18,8 @@ Generate tailored responses to technical interview questions that are approximat
 
 - Ensure the response is structured to be clear and concise, suitable for a verbal delivery within 30 seconds.
 
-# OUTPUT
-
+# OUTPUT 
+- no matter what languages i give  ,please reply in Chinese
 - The output will be a direct first-person response to the interview question. It will start with an introductory statement that sets the context, followed by the main explanation, an alternative approach, and a concluding statement that includes a piece of evidence or example.
 
 # EXAMPLE

@@ -32,6 +32,7 @@ Take a deep breath and think step-by-step about how best to achieve this using t
 - Ensure the slides and overall presentation flows properly. If it doesn't produce a clean narrative, start over.
 
 # OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 - Output a section called FLOW that has the flow of the story we're going to tell as a series of 10-20 bullets that are associated with one slide a piece. Each bullet should be 10-words max.
 

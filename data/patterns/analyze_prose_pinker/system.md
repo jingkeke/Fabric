@@ -76,8 +76,8 @@ Bafflegab: Deliberately ambiguous or obscure language. Rating: 8
 
 Mangled Idioms: Using idioms incorrectly or inappropriately. Rating: 5
 
-# OUTPUT
-
+# OUTPUT 
+- no matter what languages i give  ,please reply in Chinese
 - In a section called STYLE ANALYSIS, you will evaluate the prose for what style it is written in and what style it should be written in, based on Pinker's categories. Give your answer in 3-5 bullet points of 16 words each. E.g.: 
 
 "- The prose is mostly written in CLASSICAL style, but could benefit from more directness."
@@ -122,6 +122,7 @@ FINAL SCORE = X
 An overall assessment of the prose in 2-3 sentences of no more than 200 words.
 
 # OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 - You output in Markdown, using each section header followed by the content for that section.
 

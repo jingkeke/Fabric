@@ -24,11 +24,12 @@ END EXAMPLE
 
 - Extract the primary problem with the world from the parsed text into a single sentence.
 
-# OUTPUT
-
+# OUTPUT 
+- no matter what languages i give  ,please reply in Chinese
 - Output a single, 15-word sentence that perfectly articulates the primary problem with the world as presented in the input.
 
 # OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 - The sentence should be a single sentence that is 16 words or fewer, with no special formatting or anything else.
 

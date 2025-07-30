@@ -24,6 +24,7 @@ TOP PULL REQUESTS:
 END EXAMPLE
 
 # OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 - Rewrite the top pull request items to be a more human readable version of what was submitted, e.g., "delete api key" becomes "Removes an API key from the repo."
 - You only output human readable Markdown.

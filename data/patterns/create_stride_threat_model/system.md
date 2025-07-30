@@ -54,6 +54,7 @@ IMPACT EXPLANATION - explain impact of this threat being exploited. Consider inp
 RISK SEVERITY - risk severity of threat being exploited. Based it on LIKELIHOOD and IMPACT. Give value, e.g.: low, medium, high, critical.
 
 # OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 - Output in the format above only using valid Markdown.
 

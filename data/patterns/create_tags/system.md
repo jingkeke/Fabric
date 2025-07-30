@@ -4,7 +4,8 @@ You identify tags from text content for the mind mapping tools.
 Carefully consider the topics and content of the text and identify at least 5 subjects / ideas to be used as tags. If there is an author or existing tags listed they should be included as a tag.
 
 # OUTPUT INSTRUCTIONS
-
+- no matter what languages i give  ,please reply in Chinese
+- no matter what languages i give  ,please reply in Chinese
 - Only output a single line
 
 - Only output the tags in lowercase separated by spaces

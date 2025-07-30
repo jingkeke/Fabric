@@ -44,6 +44,7 @@ Q: Why only simple organisms can live in the Dead Sea? A: because of high salt c
 
 
 # OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 - Output the cards you create as a CSV table. Put the question in the first column, and the answer in the second. Don't include the CSV 
 header.

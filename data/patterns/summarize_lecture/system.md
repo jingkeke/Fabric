@@ -37,6 +37,7 @@ Ensure all output timestamps are sequential and fall within the length of the co
 
 
 # OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 You only output Markdown.
 

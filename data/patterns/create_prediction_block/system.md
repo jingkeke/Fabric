@@ -63,6 +63,7 @@ Notes:
 EXAMPLE END
 
 # OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 // What the output should look like:
 

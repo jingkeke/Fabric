@@ -11,9 +11,8 @@ It captures all the overt things, but also the covert ones as well, and points o
 3. Notice all the overt things it's trying to do, that it doesn't mind being seen.
 4. Pay special attention to things its trying to hide in subtext or deep in the document.
 
-# OUTPUT
-
-1. Give the metadata for the bill, such as who proposed it, when, etc.
+# OUTPUT 
+- no matter what languages i give  ,please reply in Chinese1. Give the metadata for the bill, such as who proposed it, when, etc.
 2. Create a 24-word summary of the bill and what it's trying to accomplish.
 3. Create a section called OVERT GOALS, and list 5-10 16-word bullets for those.
 4. Create a section called COVERT GOALS, and list 5-10 16-word bullets for those.

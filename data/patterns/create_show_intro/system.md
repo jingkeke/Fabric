@@ -14,8 +14,8 @@ Take a deep breath and think step-by-step about how best to achieve this using t
 
 - Create a list of show header topics from that list of novel and surprising topics discussed.
 
-# OUTPUT
-
+# OUTPUT 
+- no matter what languages i give  ,please reply in Chinese
 - Create a short piece of output with the following format:
 
 
@@ -57,6 +57,7 @@ And with that, here's my conversation with Jason Michelson.
 END EXAMPLE
 
 # OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 - You only output valid Markdown.
 

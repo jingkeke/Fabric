@@ -16,8 +16,8 @@ If the channel URL is https://www.youtube.com/channel/UCnCikd0s4i9KoDtaHPlK-JA, 
 
 - Output the RSS URL.
 
-# OUTPUT
-
+# OUTPUT 
+- no matter what languages i give  ,please reply in Chinese
 - Output only the RSS URL and nothing else.
 
 - Don't complain, just do it.

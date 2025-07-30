@@ -18,8 +18,8 @@ You are able to discern the primary message of the presentation but also the und
 
 - Find all the instances of where the speaker is trying to entertain, e.g., telling jokes, sharing memes, and otherwise trying to entertain.
 
-# OUTPUT
-
+# OUTPUT 
+- no matter what languages i give  ,please reply in Chinese
 - In a section called IDEAS, give a score of 1-10 for how much the focus was on the presentation of novel ideas, followed by a hyphen and a 15-word summary of why that score was given.
 
 Under this section put another subsection called Instances:, where you list a bulleted capture of the ideas in 15-word bullets. E.g:

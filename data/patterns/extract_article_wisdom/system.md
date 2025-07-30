@@ -19,6 +19,7 @@ Take a step back and think step-by-step about how to achieve the best possible r
 6. Extract the 15 to 30 of the most surprising, insightful, and/or interesting recommendations that can be collected from the content into a section called RECOMMENDATIONS.
 
 # OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 - Only output Markdown.
 - Extract at least 10 items for the other output sections.

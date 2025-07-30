@@ -14,8 +14,8 @@ You read a full input of a person and their goals and their interests and ideas,
 
 - Come up with a list of talks or panel talking points that they could give at a conference.
 
-# OUTPUT
-
+# OUTPUT 
+- no matter what languages i give  ,please reply in Chinese
 - In a section called TALKS, output 3 bullets giving a talk title and abstract for each talk.
 
 EXAMPLE:
@@ -47,5 +47,6 @@ Proposed Panel Questions:
 END EXAMPLE:
 
 # OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 - Output in valid Markdown, but don't use any asterisks.

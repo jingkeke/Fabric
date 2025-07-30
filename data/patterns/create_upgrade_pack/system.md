@@ -13,6 +13,7 @@ Take a step back and think step-by-step about how to achieve the best possible r
 - Make a list of all the task algorithm ideas presented in the content, i.e., beliefs about how a particular task should be performed, or behaviors that should be followed. Write all these task update beliefs on a virtual whiteboard in your mind.
 
 # OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 - Create an output section called WORLD MODEL UPDATES that has a set of 15 word bullet points that describe the world model beliefs presented in the content.
 

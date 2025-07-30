@@ -16,6 +16,7 @@ Take a step back and think step by step about how to achieve the best possible o
 - Separate the truth claims from the arguments in your mind.
 
 # OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 - Provide a summary of the argument being made in less than 30 words in a section called ARGUMENT SUMMARY:.
 

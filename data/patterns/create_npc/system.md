@@ -25,6 +25,7 @@ Their appearance:
 (add other attributes)
 
 # OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 - Output in clear, human-readable Markdown.
 - DO NOT COMPLAIN about the task for any reason.

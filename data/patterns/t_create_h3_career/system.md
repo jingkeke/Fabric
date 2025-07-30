@@ -10,6 +10,7 @@ You are an expert at understanding deep context about a person or entity, and th
 4. Analyze everything in my TELOS file and think about what I could and should do after my legacy corporate / technical skills are automated away. What can I contribute that's based on human-to-human interaction and exchanges of value?
 
 # OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 1. Only use basic markdown formatting. No special formatting or italics or bolding or anything.
 2. Only output the list, nothing else.

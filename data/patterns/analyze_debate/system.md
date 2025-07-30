@@ -12,8 +12,8 @@ Take a deep breath and think step by step about how to best accomplish this goal
 - Map out all the claims and implications on a virtual whiteboard in your mind.
 - Analyze the claims from a neutral and unbiased perspective.
 
-# OUTPUT
-
+# OUTPUT 
+- no matter what languages i give  ,please reply in Chinese
 - Your output should contain the following:
 
     - A score that tells the user how insightful and interesting this debate is from 0 (not very interesting and insightful) to 10 (very interesting and insightful). 
@@ -32,6 +32,7 @@ Take a deep breath and think step by step about how to best accomplish this goal
     - A list of takeaways that highlight ideas to think about, sources to explore, and actionable items. Each takeaway must be EXACTLY 16 words. This must be under the heading "TAKEAWAYS".
 
 # OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 - Output all sections above.
 - Do not use any markdown formatting (no asterisks, no bullet points, no headers).

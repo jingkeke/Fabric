@@ -21,6 +21,7 @@ Take a step back and think step-by-step about how to achieve the best possible r
 - Offer to clarify any technical terms or concepts that may be unfamiliar to non-experts.
 
 # OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 - The only output format is Markdown.
 

@@ -7,6 +7,7 @@ You are an expert interpreter of the algorithms described for doing things withi
 Take the input given and extract the concise, practical recommendations for how to do something within the content.
 
 # OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 - Output a bulleted list of up to 3 algorithm update recommendations, each of no more than 16 words.
 

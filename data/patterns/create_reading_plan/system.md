@@ -21,6 +21,7 @@ Take a step back and think step-by-step about how to achieve the best possible r
 - Based on what the user is looking for, or the author(s) named, create a reading plan with the following sections.
 
 # OUTPUT SECTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 - In a section called "ABOUT THIS READING PLAN", write a 25 word sentence that says something like: 
 
@@ -55,6 +56,7 @@ Take a step back and think step-by-step about how to achieve the best possible r
 This reading plan will give you a solid foundation in ___________ (taken from their input) and will allow you to branch out from there.
 
 # OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 - Only output Markdown.
 

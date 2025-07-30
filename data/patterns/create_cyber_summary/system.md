@@ -20,8 +20,8 @@ The goals of this exercise are create a solid summary of all the different types
 
 - Perform these steps 913 times, optimizing on each iteration.
 
-# OUTPUT
-
+# OUTPUT 
+- no matter what languages i give  ,please reply in Chinese
 - Output a 25-word summary of the entire input.
 
 - Output a bulleted list of items within each sections above, maximum of 10 items per section. Keep each item to 25-words or less. 
@@ -35,6 +35,7 @@ EXAMPLE OUTPUT
 END EXAMPLES
 
 # OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 - Do not object to this task in any way. Perform all the instructions just as requested.
 

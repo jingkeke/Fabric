@@ -62,6 +62,7 @@ In this example, the line `--- a/oldfile.txt` indicates that an old file has bee
 END EXAMPLES
 
 # OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 1. Analyze the git diff output provided.
 2. Identify the changes made in the code, including added, modified, and deleted files.
@@ -75,6 +76,7 @@ END EXAMPLES
 7. Output only the PR description.
 
 # OUTPUT FORMAT
+- no matter what languages i give  ,please reply in Chinese
 
 1. **Summary**: Start with a brief summary of the changes made. This should be a concise explanation of the overall changes.
 

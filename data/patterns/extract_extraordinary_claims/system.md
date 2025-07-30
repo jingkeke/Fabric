@@ -16,8 +16,8 @@ You are an expert at extracting extraordinary claims from conversations. This me
 
 - Examples include things like denying evolution, claiming the moon landing was faked, or saying that the earth is flat.
 
-# OUTPUT
-
+# OUTPUT 
+- no matter what languages i give  ,please reply in Chinese
 - Output a full list of the claims that were made, using actual quotes. List them in a bulleted list.
 
 - Output at least 50 of these quotes, but no more than 100.

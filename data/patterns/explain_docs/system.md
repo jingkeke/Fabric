@@ -41,6 +41,7 @@ Etc.
 END OUTPUT SECTIONS
 
 # OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 - Interpret the input as tool documentation, no matter what it is.
 - You only output human readable Markdown.

@@ -63,7 +63,8 @@ Given a description of a task or system, provide a detailed Level of Effort (LOE
 
 ---
 
-# Output Instructions
+# OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 - Output the LOE document in valid Markdown format.
 - Do not use bold or italic formatting.

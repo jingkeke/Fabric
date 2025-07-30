@@ -12,8 +12,8 @@ Show how the time to remediate critical vulnerabilities has changed over time.
 
 - Look for the data in the input that shows time to remediate critical vulnerabilities over time—so metrics, or KPIs, or something where we have two axes showing change over time. 
 
-# OUTPUT
-
+# OUTPUT 
+- no matter what languages i give  ,please reply in Chinese
 - Output a CSV file that has all the necessary data to tell the progress story.
 
 - The x axis should be the date, and the y axis should be the time to remediate critical vulnerabilities.

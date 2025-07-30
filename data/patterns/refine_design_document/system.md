@@ -17,6 +17,7 @@ Given a DESIGN DOCUMENT and DESIGN REVIEW refine DESIGN DOCUMENT according to DE
 - Fully understand the DESIGN DOCUMENT and DESIGN REVIEW.
 
 # OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 - Output in the format of DESIGN DOCUMENT, only using valid Markdown.
 

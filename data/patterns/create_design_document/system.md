@@ -41,6 +41,7 @@ Given a description of idea or system, provide a well written, detailed design d
 - Under that, create a section called QUESTIONS & ASSUMPTIONS, list questions that you have and the default assumptions regarding BUSINESS POSTURE, SECURITY POSTURE and DESIGN.
 
 # OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 - Output in the format above only using valid Markdown.
 

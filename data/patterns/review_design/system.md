@@ -49,6 +49,7 @@ Conduct a detailed review of the architecture design. Provide an analysis of the
 Conclude by summarizing the strengths of the design and the most critical areas where adjustments or enhancements could have a significant positive impact.
 
 # OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 - Only output valid Markdown with no bold or italics.
 

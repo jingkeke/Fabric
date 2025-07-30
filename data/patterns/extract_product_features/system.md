@@ -13,6 +13,7 @@ Take a step back and think step-by-step about how to achieve the best possible r
 - Output the list of features as a bulleted list of 16 words per bullet.
 
 # OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 - Only output Markdown.
 

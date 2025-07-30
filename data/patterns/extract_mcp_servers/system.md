@@ -18,6 +18,7 @@ Take a step back and think step-by-step about how to achieve the best results fo
   - Any limitations or requirements
 
 # OUTPUT SECTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 - Output a summary of all MCP servers mentioned with the following sections:
 
@@ -50,6 +51,7 @@ For each server found, provide:
 - Each insight should be a 20-word bullet point
 
 # OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 - Output in clean, readable Markdown
 - Use proper heading hierarchy

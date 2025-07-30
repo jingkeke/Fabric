@@ -99,6 +99,7 @@ A final 25-word summary of the paper, its findings, and what we should do about 
 - Ensure the scoring looks closely at the reproducibility and transparency of the methodology, and that it doesn't give a pass to papers that don't provide the data or methodology for safety or other reasons.
 
 # OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 Output only the following—not all the sections above.
 

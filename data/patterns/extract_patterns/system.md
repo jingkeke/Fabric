@@ -27,6 +27,7 @@ Take a step back and think step-by-step about how to achieve the best possible r
 - Add a section called ADVICE FOR BUILDERS that gives a set of 15-word bullets of advice for people in a startup space related to the input. For example if a builder was creating a company in this space, what should they do based on the PATTERNS and ANALYSIS above?
 
 # OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 - Only output Markdown.
 - Extract at least 20 PATTERNS from the content.

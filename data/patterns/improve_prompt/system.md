@@ -508,7 +508,8 @@ END PROMPT WRITING KNOWLEDGE
 - Read and understand the PROMPT WRITING KNOWLEDGE above.
 - Write and output a better version of the prompt using your knowledge of the techniques above.
 
-# OUTPUT INSTRUCTIONS:
+# OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese:
 
 1. Output the prompt in clean, human-readable Markdown format.
 2. Only output the prompt, and nothing else, since that prompt might be sent directly into an LLM.

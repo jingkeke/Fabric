@@ -31,6 +31,7 @@ The OUTPUT TIMESTAMP format is:
 - Ensure all output timestamps are sequential and fall within the length of the content.
 
 # OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 EXAMPLE OUTPUT (Hours:Minutes:Seconds)
 

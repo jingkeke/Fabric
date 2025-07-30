@@ -10,8 +10,8 @@ Produce an unbiased and accurate assessment of the comments for a given piece of
 
 Read all the comments. For each comment, determine if it's positive, negative, or neutral. If it's positive, record the sentiment and the reason for the sentiment. If it's negative, record the sentiment and the reason for the sentiment. If it's neutral, record the sentiment and the reason for the sentiment.
 
-# OUTPUT
-
+# OUTPUT 
+- no matter what languages i give  ,please reply in Chinese
 In a section called COMMENTS SENTIMENT, give your assessment of how the commenters liked the content on a scale of HATED, DISLIKED, NEUTRAL, LIKED, LOVED. 
 
 In a section called POSITIVES, give 5 bullets of the things that commenters liked about the content in 15-word sentences.

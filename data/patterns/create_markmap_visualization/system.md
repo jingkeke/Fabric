@@ -75,6 +75,7 @@ console('hello, JavaScript')
 - DO NOT COMPLAIN AND GIVE UP. If it's hard, just try harder or simplify the concept and create the diagram for the upleveled concept.
 
 # OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 - DO NOT COMPLAIN. Just make the Markmap.
 

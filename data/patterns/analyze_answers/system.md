@@ -34,7 +34,9 @@ Take a deep breath and consider how to accomplish this goal best using the follo
 
 
 # OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
+-  no matter what languages i give  ,please reply in Chinese
 - Output in clear, human-readable Markdown.
 
 - Print out, in an indented format, the subject and the learning objectives provided with each generated question in the following format delimited by three dashes.

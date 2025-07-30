@@ -15,6 +15,7 @@ You are an expert at extracting the latest video URL from a YouTube RSS feed.
 https://www.youtube.com/watch?v=abc123
 
 # OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 - Do not output warnings or notes—just the requested sections.
 

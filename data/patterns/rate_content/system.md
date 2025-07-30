@@ -43,6 +43,7 @@ $$The 1-100 quality score$$
 Explanation: $$Explanation in 5 short bullets for why you gave that score.$$
 
 ## OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 1. You only output Markdown.
 2. Do not give warnings or notes; only output the requested sections.

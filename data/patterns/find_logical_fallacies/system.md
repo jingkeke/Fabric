@@ -203,13 +203,14 @@ Vacuous truth – a claim that is technically true but meaningless, in the form 
 
 - Write those fallacies in a list on a virtual whiteboard in your mind.
 
-# OUTPUT
-
+# OUTPUT 
+- no matter what languages i give  ,please reply in Chinese
 - In a section called FALLACIES, list all the fallacies you found in the text using the structure of:
 
 "- Fallacy Name: Fallacy Type — 15 word explanation."
 
 # OUTPUT INSTRUCTIONS
+- no matter what languages i give  ,please reply in Chinese
 
 - You output in Markdown, using each section header followed by the content for that section.
 
